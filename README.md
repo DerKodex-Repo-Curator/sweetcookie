@@ -126,3 +126,7 @@ supported source minimum.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Releases
+
+See [RELEASING.md](RELEASING.md) for the signed-tag GitHub release workflow and its no-publish rehearsal.
